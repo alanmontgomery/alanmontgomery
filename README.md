@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey, there! 👋</h2>
 
-<p align="center">I'm Alan.<br/> Senior React Dev and Mobile Team Lead. I LOVE creating mobile apps with the Ionic Framework/Capacitor and React. I'm also <b>huge</b> fan of NextJS and TailwindCSS.</p>
+<p align="center">I'm Alan.<br/> I am Senior React Dev and Mobile Team Lead with 10+ years experience. I LOVE creating mobile apps with the Ionic Framework/Capacitor and React. I'm also <b>huge</b> fan of NextJS and TailwindCSS. I'm big into the gym and enjoy gaming in my spare time.</p>
 </p>
 
 <p align="center">
