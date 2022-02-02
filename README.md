@@ -12,6 +12,10 @@
   <a href="https://youtube.com/alanmontgomery?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCZm616WEhxNaysg3tRoZ96w?label=Youtube&logoColor=FFFFFF&style=for-the-badge&logo=Youtube">
   </a>
+  
+  <a href="https://youtube.com/alanmontgomery?sub_confirmation=1">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/alanmontgomery?color=FFFFFF&label=GITHUB&style=for-the-badge&logo=Github">
+  </a>
 </p>
 
 <h4 align="center">Here are some things I spend time on 👇</h4>
