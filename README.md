@@ -24,14 +24,14 @@
   <a href="https://ionicreacthub.com">
     <img width="49%" src="https://i.imgur.com/1LTXVk3.png" alt="Ionic React Hub - A collection of Ionic React Mobile App UI, Components and Resources" />
   </a>
-  <a href="https://mobiledevcast.com">
-    <img width="49%" src="https://i.imgur.com/k2Vd9Gn.png" alt="Mobile DevCast - A podcast dedicated to mobile app development and web native technologies" />
+  <a href="https://youtube.com/alanmontgomery?sub_confirmation=1">
+    <img width="49%" src="https://i.imgur.com/tD63VDA.png" alt="Alan Montgomery YouTube" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/alanmontgomery?sub_confirmation=1">
-    <img width="49%" src="https://i.imgur.com/tD63VDA.png" alt="Alan Montgomery YouTube" />
+  <a href="https://mobiledevcast.com">
+    <img width="49%" src="https://i.imgur.com/k2Vd9Gn.png" alt="Mobile DevCast - A podcast dedicated to mobile app development and web native technologies" />
   </a>
   <a href="https://twitter.com/intent/user?screen_name=93alan">
     <img width="49%" src="https://i.imgur.com/GfWZaMi.png" alt="93alan Twitter" />
