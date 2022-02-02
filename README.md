@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://ionicreacthub.com">
-    <img width="49%" src="https://i.imgur.com/wHFJdFl.png" alt="Ionic React Hub - A collection of Ionic React Mobile App UI, Components and Resources" />
+    <img width="49%" src="https://i.imgur.com/1LTXVk3.png" alt="Ionic React Hub - A collection of Ionic React Mobile App UI, Components and Resources" />
   </a>
   <a href="https://mobiledevcast.com">
     <img width="49%" src="https://i.imgur.com/k2Vd9Gn.png" alt="Mobile DevCast - A podcast dedicated to mobile app development and web native technologies" />
