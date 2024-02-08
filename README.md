@@ -1,4 +1,4 @@
-![Alan Montgomery](https://i.imgur.com/8v7532w.jpg)
+![Alan Montgomery](https://i.imgur.com/ARel8Gc.jpeg)
 
 <h2 align="center">Hey, there! 👋</h2>
 
