@@ -30,9 +30,6 @@
 </p>
 
 <p align="center">
-  <a href="https://mobiledevcast.com">
-    <img width="49%" src="https://i.imgur.com/k2Vd9Gn.png" alt="Mobile DevCast - A podcast dedicated to mobile app development and web native technologies" />
-  </a>
   <a href="https://twitter.com/intent/user?screen_name=93alan">
     <img width="49%" src="https://i.imgur.com/GfWZaMi.png" alt="93alan Twitter" />
   </a>
