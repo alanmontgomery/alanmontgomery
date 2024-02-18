@@ -4,10 +4,11 @@
 
 <p align="center">
   I'm Alan.<br/> Frontend Development Lead<br/>
-  10+ years in JS dev<br/>
+  10+ years in JS dev
+  <br/><br/>
   Architecting top-notch UI with React, Next.js, Tailwind, Ionic<br/>
   Innovative leader at Idox. 🚀<br/>
-  #FrontendDev
+  `#FrontendDev`
 </p>
 </p>
 
