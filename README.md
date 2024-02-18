@@ -8,7 +8,7 @@
   <br/><br/>
   Architecting <strong>top-notch UI</strong> with React, Next.js, Tailwind, Ionic<br/>
   Innovative leader at Idox. 🚀<br/>
-  <code>#FrontendDev</code>
+  <code>#FrontendDev</code> 🧙‍♂️
 </p>
 
 <hr />
