@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey, there! 👋</h2>
 
-<p align="center">I'm Alan.<br/> I am a Frontend Development Lead. I LOVE creating mobile apps with the Ionic Framework/Capacitor and React. I'm also <b>huge</b> fan of NextJS and TailwindCSS. I'm big into the gym and enjoy gaming in my spare time.</p>
+<p align="center">I'm Alan.<br/> Frontend Development Lead | 10+ years in JS dev | Architecting top-notch UI with React, Next.js, Tailwind, Ionic | Innovative leader at Idox. 🚀 #FrontendDev</p>
 </p>
 
 <p align="center">
