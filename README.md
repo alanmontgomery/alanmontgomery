@@ -6,9 +6,9 @@
   I'm Alan.<br/> Frontend Development Lead<br/>
   10+ years in JS dev
   <br/><br/>
-  Architecting top-notch UI with React, Next.js, Tailwind, Ionic<br/>
+  Architecting <strong>top-notch UI</strong> with React, Next.js, Tailwind, Ionic<br/>
   Innovative leader at Idox. 🚀<br/>
-  `#FrontendDev`
+  <code>#FrontendDev</code>
 </p>
 </p>
 
