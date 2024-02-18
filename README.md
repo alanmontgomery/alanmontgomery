@@ -10,7 +10,8 @@
   Innovative leader at Idox. 🚀<br/>
   <code>#FrontendDev</code>
 </p>
-</p>
+
+<hr />
 
 <p align="center">
   <a href="https://twitter.com/intent/user?screen_name=93alan">
