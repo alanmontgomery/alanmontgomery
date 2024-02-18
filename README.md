@@ -2,7 +2,13 @@
 
 <h2 align="center">Hey, there! 👋</h2>
 
-<p align="center">I'm Alan.<br/> Frontend Development Lead | 10+ years in JS dev | Architecting top-notch UI with React, Next.js, Tailwind, Ionic | Innovative leader at Idox. 🚀 #FrontendDev</p>
+<p align="center">
+  I'm Alan.<br/> Frontend Development Lead<br/>
+  10+ years in JS dev<br/>
+  Architecting top-notch UI with React, Next.js, Tailwind, Ionic<br/>
+  Innovative leader at Idox. 🚀<br/>
+  #FrontendDev
+</p>
 </p>
 
 <p align="center">
