@@ -7,7 +7,7 @@
   10+ years in JS dev
   <br/><br/>
   Architecting <strong>top-notch UI</strong> with React, Next.js, Tailwind, Ionic<br/>
-  Innovative leader at Idox. 🚀<br/>
+  Innovative leader. 🚀<br/>
   <code>#FrontendDev</code> 🧙‍♂️
 </p>
 
