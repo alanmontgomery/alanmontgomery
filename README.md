@@ -7,8 +7,10 @@
   10+ years in JS dev
   <br/><br/>
   Architecting <strong>top-notch UI</strong> with React, Next.js, Tailwind, Ionic<br/>
-  Innovative leader. 🚀<br/>
+  Innovative leader. 🚀
+  <br/>
   <code>#FrontendDev</code> 🧙‍♂️
+  <br />  
 </p>
 
 <hr />
@@ -24,6 +26,14 @@
   <a href="https://youtube.com/alanmontgomery?sub_confirmation=1">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/alanmontgomery?color=FFFFFF&label=GITHUB&style=for-the-badge&logo=Github">
   </a>
+</p>
+
+<p align="center">
+  Currently working as <strong>Frontend Development Lead</strong> @ UsedCarsNI
+  <br /><br />
+  <img alt="UsedCarsNI" src="https://i.imgur.com/tpr8MlM.png" height="20%" width="20%" />
+  <br />
+  <a href="https://git.ucni.it/alan" target="_blank">View my work gitlab contributions &rarr;</a>
 </p>
 
 <h4 align="center">Here are some things I spend time on 👇</h4>
