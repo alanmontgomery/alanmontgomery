@@ -31,7 +31,7 @@
 <p align="center">
   Currently working as <strong>Frontend Development Lead</strong> @ UsedCarsNI
   <br /><br />
-  <img alt="UsedCarsNI" src="https://i.imgur.com/tpr8MlM.png" height="20%" width="20%" />
+  <img alt="UsedCarsNI" src="https://image.usedcarsni.com/logo/1/000/000/000/001/171135472420af6910ae.png" height="20%" width="20%" />
   <br />
   <a href="https://git.ucni.it/alan" target="_blank">View my work gitlab contributions &rarr;</a>
 </p>
