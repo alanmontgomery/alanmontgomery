@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  Currently working as <strong>Frontend Development Lead</strong> @ UsedCarsNI
+  💼 <strong>Frontend Development Lead</strong> @ UsedCarsNI
   <br /><br />
   <img alt="UsedCarsNI" src="https://image.usedcarsni.com/logo/1/000/000/000/001/171135472420af6910ae.png" height="20%" width="20%" />
   <br />
