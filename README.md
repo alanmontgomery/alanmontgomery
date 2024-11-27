@@ -53,6 +53,11 @@
   </a>
 </p>
 
+## 🧙‍♂️ Skillset
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,nodejs,prisma,postgres,php,github,gitlab,docker,git,nginx,npm,pnpm" />
+</p>
+
 ## 💡 Knowledge Arsenal
 
 <div align="center">
