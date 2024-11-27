@@ -52,3 +52,5 @@
     <img width="49%" src="https://i.imgur.com/GfWZaMi.png" alt="93alan Twitter" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
