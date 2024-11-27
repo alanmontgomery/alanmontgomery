@@ -53,4 +53,36 @@
   </a>
 </p>
 
+## 💡 Knowledge Arsenal
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Tech Stack))
+    Frontend
+      Javascript
+      React
+      Next.js
+      Auth.js
+    Mobile
+      Ionic
+      Capacitor
+      PWA
+    Database
+      Prisma
+      Postgesql
+    Design
+      CSS
+      Tailwind
+      UI/UX
+      Figma
+    Architecture
+      Performance
+      Scalability
+      Best Practices
+```
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
